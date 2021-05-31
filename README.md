@@ -1,3 +1,8 @@
+# Fork of Benjamin Price's Dockerfile for Foundry VTT
+
+This repository hosts a Foundry VTT `Dockerfile` for [kazper/fvtt-docker](https://hub.docker.com/r/Kazpers/fvtt-docker). It is a fork of [Benjamins Price's](https://github.com/BenjaminPrice/fvtt-docker) github repo. It was changed to use Nodejs version 16 to be compatible with FoundryVTT 0.7.10 and later.
+
+# Original Readme
 # Foundry VTT - Docker
 
 <a href="https://patreon.com/direckthit"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fdireckthit&style=for-the-badge" /> </a>
